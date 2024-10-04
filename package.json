@@ -1,7 +1,7 @@
 {
   "name": "passsword-genretor",
   "version": "0.1.0",
-  "homepage": "https://Rishabh6200.github.io/poki-pro",
+  "homepage": "https://Rishabh6200.github.io/password-genretor",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
