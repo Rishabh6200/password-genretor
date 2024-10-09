@@ -1,7 +1,7 @@
 {
-  "name": "passsword-genretor",
+  "name": "passsword",
   "version": "0.1.0",
-  "homepage": "https://Rishabh6200.github.io/password-genretor",
+  "homepage": "https://Rishabh6200.github.io/password",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
