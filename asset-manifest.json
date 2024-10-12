@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/password/static/css/main.e4054b24.css",
-    "main.js": "/password/static/js/main.c28b6fdd.js",
-    "index.html": "/password/index.html",
-    "main.e4054b24.css.map": "/password/static/css/main.e4054b24.css.map",
-    "main.c28b6fdd.js.map": "/password/static/js/main.c28b6fdd.js.map"
+    "main.css": "/password-genretor/static/css/main.e4054b24.css",
+    "main.js": "/password-genretor/static/js/main.c28b6fdd.js",
+    "index.html": "/password-genretor/index.html",
+    "main.e4054b24.css.map": "/password-genretor/static/css/main.e4054b24.css.map",
+    "main.c28b6fdd.js.map": "/password-genretor/static/js/main.c28b6fdd.js.map"
   },
   "entrypoints": [
     "static/css/main.e4054b24.css",
